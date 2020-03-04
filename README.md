@@ -25,7 +25,7 @@ To find a road, you need to tap the Search Field and type one or more roads sepa
 * To run the unit tests go to "TfL Coding ChallengeTests" folder, select "StatusViewModelTests.swift" file and choose Product > Perform Action > Test (or "Test Again" in case it was tested before).
 * To run an individual test method, click the arrow to the right of the method name in the "StatusViewModelTests.swift" file.
 
-# Foulder structure
+# Folder structure
 
 * **Utils**: I added some useful classes here like a "Box" to bind view model elements with the view controller, preset colors, custom errors and InfoPlistHelper to get the app id and key.
 * **Networking**: I added a RequestBuilder to build the URLRequest with a configured scheme, host, path and queryItems and a ServiceLayer to manage the requests.
